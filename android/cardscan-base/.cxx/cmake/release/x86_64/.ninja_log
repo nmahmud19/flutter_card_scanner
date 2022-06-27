@@ -1,0 +1,4 @@
+# ninja log v5
+1	92	1655877064	CMakeFiles/yuv-decoder.dir/yuv-decoder.c.o	78acf9fb90a79f43
+92	165	1655877065	/Users/user/beeline/beepul-lite-flutter/build/cardscan-base/intermediates/cmake/release/obj/x86_64/libyuv-decoder.so	18ed64cd6911bfa4
+0	82	1655879664	/Users/user/beeline/beepul-lite-flutter/build/cardscan-base/intermediates/cmake/release/obj/x86_64/libyuv-decoder.so	18ed64cd6911bfa4

@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/user/beeline/beepul-lite-flutter/android/cardscan-base/.cxx/cmake/debug/armeabi-v7a'
+ninja: no work to do.

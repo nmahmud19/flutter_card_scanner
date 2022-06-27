@@ -1,0 +1,3 @@
+/Users/user/beeline/beepul-android/cardscan-base/.cxx/Debug/1t6kl4u5/x86/CMakeFiles/rebuild_cache.dir
+/Users/user/beeline/beepul-android/cardscan-base/.cxx/Debug/1t6kl4u5/x86/CMakeFiles/edit_cache.dir
+/Users/user/beeline/beepul-android/cardscan-base/.cxx/Debug/1t6kl4u5/x86/CMakeFiles/yuv-decoder.dir

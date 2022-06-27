@@ -1,0 +1,3 @@
+/Users/user/beeline/beepul-lite-flutter/android/cardscan-base/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/user/beeline/beepul-lite-flutter/android/cardscan-base/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/user/beeline/beepul-lite-flutter/android/cardscan-base/.cxx/cmake/debug/x86_64/CMakeFiles/yuv-decoder.dir
